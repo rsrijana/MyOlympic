@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/MyOlympic/static/css/main.c17f7d8a.chunk.css",
+    "main.js": "/MyOlympic/static/js/main.4abbe74d.chunk.js",
+    "main.js.map": "/MyOlympic/static/js/main.4abbe74d.chunk.js.map",
+    "runtime-main.js": "/MyOlympic/static/js/runtime-main.6e937a72.js",
+    "runtime-main.js.map": "/MyOlympic/static/js/runtime-main.6e937a72.js.map",
+    "static/css/2.6ea1aa3f.chunk.css": "/MyOlympic/static/css/2.6ea1aa3f.chunk.css",
+    "static/js/2.d6a7262c.chunk.js": "/MyOlympic/static/js/2.d6a7262c.chunk.js",
+    "static/js/2.d6a7262c.chunk.js.map": "/MyOlympic/static/js/2.d6a7262c.chunk.js.map",
+    "static/js/3.b3180e54.chunk.js": "/MyOlympic/static/js/3.b3180e54.chunk.js",
+    "static/js/3.b3180e54.chunk.js.map": "/MyOlympic/static/js/3.b3180e54.chunk.js.map",
+    "index.html": "/MyOlympic/index.html",
+    "static/css/2.6ea1aa3f.chunk.css.map": "/MyOlympic/static/css/2.6ea1aa3f.chunk.css.map",
+    "static/css/main.c17f7d8a.chunk.css.map": "/MyOlympic/static/css/main.c17f7d8a.chunk.css.map",
+    "static/js/2.d6a7262c.chunk.js.LICENSE.txt": "/MyOlympic/static/js/2.d6a7262c.chunk.js.LICENSE.txt",
+    "static/media/Care.444f32c6.png": "/MyOlympic/static/media/Care.444f32c6.png",
+    "static/media/Community.da280bc5.png": "/MyOlympic/static/media/Community.da280bc5.png",
+    "static/media/banner.5fed77c7.jpg": "/MyOlympic/static/media/banner.5fed77c7.jpg",
+    "static/media/blog.812d8e5c.jpg": "/MyOlympic/static/media/blog.812d8e5c.jpg",
+    "static/media/slick-theme.css": "/MyOlympic/static/media/slick.c94f7671.ttf",
+    "static/media/team.1379bbea.jpg": "/MyOlympic/static/media/team.1379bbea.jpg",
+    "static/media/wallpaper.ce50db28.jpg": "/MyOlympic/static/media/wallpaper.ce50db28.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e937a72.js",
+    "static/css/2.6ea1aa3f.chunk.css",
+    "static/js/2.d6a7262c.chunk.js",
+    "static/css/main.c17f7d8a.chunk.css",
+    "static/js/main.4abbe74d.chunk.js"
+  ]
+}
