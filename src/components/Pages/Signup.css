@@ -1,0 +1,91 @@
+/* @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700); */
+
+
+.signup {
+  /* width: auto; */
+  margin: 0% 35%;
+  width: 25%;
+  font-size: 16px;
+  height: fit-content;
+}
+
+ 
+.signup-header,
+.signup p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+.signup-header {
+  background: #28d;
+  padding: 20px;
+  font-size: 1.4em;
+  font-weight: normal;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+.login{
+  background-color: #17c;
+  color: white;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border-style: groove;
+  border-color: #ebebeb;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-right: 8rem;
+}
+.signup-container {
+  background: #ebebeb;
+  padding: 12px;
+}
+
+ 
+.signup p {
+  padding: 12px;
+}
+
+.signup input {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  padding: 16px;
+  outline: 0;
+  font-family: inherit;
+  font-size: 0.95em;
+}
+
+.signup input[type="email"],
+.signup input[type="password"] {
+  background: #fff;
+  border-color: #bbb;
+  color: #555;
+}
+
+ 
+.signup input[type="email"]:focus,
+.signup input[type="password"]:focus {
+  border-color: #888;
+}
+
+.signup input[type="submit"] {
+  background: #28d;
+  border-color: transparent;
+  color: #fff;
+  cursor: pointer;
+  text-align: center;
+  margin-top: -30px;
+  height: 10px;
+}
+
+.signup input[type="submit"]:hover {
+  background: #17c;
+}
+
+ 
+.signup input[type="submit"]:focus {
+  border-color: #05a;
+}
